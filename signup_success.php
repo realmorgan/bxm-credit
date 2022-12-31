@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>BXM Credits</title>
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
