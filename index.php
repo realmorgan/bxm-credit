@@ -1,10 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>BXM Credits | Get Quick Loans</title>
+	<title>BXM Credit | Get Quick Loans</title>
 
 	<!-- Bootstrap Stylesheet -->
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
@@ -16,11 +16,6 @@
 	<style type="text/css">
 
 /*Header Navbar styling*/
-		body{
-			/* background-color: #FFFFFA; */
-			height: 0px;
-		}
-
 		a{
 			text-decoration: none;
 			color: white;
@@ -237,7 +232,7 @@
 		<div class="wrapper1">
 					<nav class="navbar navbar-expand-lg navbar-dark navbg fixed-top">
 			  <div class="container-fluid">
-			    <a class="navbar-brand" href="index.php"><b><i>BXM</i></b><br> <b><i>CREDITS</i></b></a>
+			    <a class="navbar-brand" href="index.php"><b><i>BXM</i></b><br> <b><i>CREDIT</i></b></a>
 			    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			      <span class="navbar-toggler-icon"></span>
 			    </button>
@@ -337,7 +332,7 @@
 
 
 		<div class="row-12 mt-5 text7">
-				<h2><b>Financial Support For SMEs or Businesses? Yes We've Got You Covered!</b></h2>
+				<h2><b>Financial Support For SMEs and Businesses? Yes We've Got You Covered!</b></h2>
 			</div>
 		<div class="row text5 mt-5">
 			<div class="col-md-5 mt-5 text8">
@@ -348,7 +343,7 @@
 
 				<h2 class="mt-5"><b>Working With You</b></h2>
 				<hr>
-				<p><b>At BXM Credits, we have a team of like-minded, creative and friendly people who are experts in their fields working together productively to create value to all our stakeholders with the single goal of being exceptional by all standards.<br>
+				<p><b>At BXMCredit, we have a team of like-minded, creative and friendly people who are experts in their fields working together productively to create value to all our stakeholders with the single goal of being exceptional by all standards.<br>
 				We strongly believe in integrity, empathy, respect, innovation and creating value in everything we do.</b></p>
 
 				<div class="row mt-5">
@@ -388,7 +383,7 @@
 <div id="aboutus"></div>
 	<div class="container wrapper3">
 		<div class="row mt-5">
-			<h1>About <span style="color: purple;"><b>BXM</span><span style="color: orange;">Credits</span></b></h1>
+			<h1>About <span style="color: purple;"><b>BXM</span><span style="color: orange;">Credit</span></b></h1>
 			<hr id="hr4">
 		</div>
 		<div class="row mt-2">
@@ -443,7 +438,6 @@
 			<h5>Designed by MORGAN - &copy;2022 Financial Services</h5>
 		</div>
 	</div>
-
 
 
 
