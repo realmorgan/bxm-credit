@@ -4,7 +4,7 @@
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<title>BXM Credits - All  Customers</title>
+	<title>BXM Credit - All  Customers</title>
 
 	<!-- Bootstrap Stylesheet -->
 	<link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.css">

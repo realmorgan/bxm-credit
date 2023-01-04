@@ -18,7 +18,7 @@
 	<div class="container">
 		<div class="row mt-5">
 			<div class="col-md-12">
-				<h1><span style="color: purple;">BXM</span><span style="color: orange;">Credits</span></h1>
+				<h1><span style="color: purple;">BXM</span><span style="color: orange;">Credit</span></h1>
 			</div>
 		</div>
 	</div>
