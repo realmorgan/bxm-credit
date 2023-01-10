@@ -76,7 +76,7 @@
 
 	<div class="container-fluid">
 		<div class="row wrapper5">
-			<h5>Designed by MORGAN - &copy;2022 Financial Services</h5>
+			<h5>Designed by MORGAN - &copy;2022 BXMC Financial Services</h5>
 		</div>
 	</div>
 
